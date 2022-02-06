@@ -1,0 +1,6 @@
+out
+.idea
+*.iml
+build.gradle
+# Project exclude paths
+/target/
